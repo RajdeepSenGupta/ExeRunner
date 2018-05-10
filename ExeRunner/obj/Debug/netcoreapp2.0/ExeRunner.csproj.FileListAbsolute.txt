@@ -1,0 +1,11 @@
+C:\Users\rajdeep\source\repos\ExeRunner\ExeRunner\bin\Debug\netcoreapp2.0\ExeRunner.deps.json
+C:\Users\rajdeep\source\repos\ExeRunner\ExeRunner\bin\Debug\netcoreapp2.0\ExeRunner.runtimeconfig.json
+C:\Users\rajdeep\source\repos\ExeRunner\ExeRunner\bin\Debug\netcoreapp2.0\ExeRunner.runtimeconfig.dev.json
+C:\Users\rajdeep\source\repos\ExeRunner\ExeRunner\bin\Debug\netcoreapp2.0\ExeRunner.dll
+C:\Users\rajdeep\source\repos\ExeRunner\ExeRunner\bin\Debug\netcoreapp2.0\ExeRunner.pdb
+C:\Users\rajdeep\source\repos\ExeRunner\ExeRunner\obj\Debug\netcoreapp2.0\ExeRunner.csprojResolveAssemblyReference.cache
+C:\Users\rajdeep\source\repos\ExeRunner\ExeRunner\obj\Debug\netcoreapp2.0\ExeRunner.csproj.CoreCompileInputs.cache
+C:\Users\rajdeep\source\repos\ExeRunner\ExeRunner\obj\Debug\netcoreapp2.0\ExeRunner.AssemblyInfoInputs.cache
+C:\Users\rajdeep\source\repos\ExeRunner\ExeRunner\obj\Debug\netcoreapp2.0\ExeRunner.AssemblyInfo.cs
+C:\Users\rajdeep\source\repos\ExeRunner\ExeRunner\obj\Debug\netcoreapp2.0\ExeRunner.dll
+C:\Users\rajdeep\source\repos\ExeRunner\ExeRunner\obj\Debug\netcoreapp2.0\ExeRunner.pdb
