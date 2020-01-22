@@ -11,11 +11,13 @@ namespace ExeRunner
             string filePath = Console.ReadLine();
             
             Process proc = new Process();
+			
             proc.StartInfo.FileName = filePath;
             proc.StartInfo.Arguments = "-v -s -a";
             proc.Start();
             proc.WaitForExit();
             int exitCode = proc.ExitCode;
+			
             proc.Close();
 
             Console.ReadLine();
